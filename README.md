@@ -1,2 +1,3 @@
 # teamwork
-open rep for studying
+
+Один в поле воин!
